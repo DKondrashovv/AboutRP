@@ -456,10 +456,10 @@ Projector:
   m_GameObject: {fileID: 512958963}
   m_Enabled: 1
   serializedVersion: 2
-  m_NearClipPlane: 16.84
-  m_FarClipPlane: 63.65
-  m_FieldOfView: 25.2
-  m_AspectRatio: 1.24
+  m_NearClipPlane: 6
+  m_FarClipPlane: 20.1
+  m_FieldOfView: 24.62
+  m_AspectRatio: 2.9
   m_Orthographic: 0
   m_OrthographicSize: 41.4
   m_Material: {fileID: 2100000, guid: 163f113d229dd4b0a8116244f846ad7d, type: 2}
@@ -473,13 +473,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 512958963}
-  m_LocalRotation: {x: 0.0041350196, y: -0.83544284, z: -0.0076860897, w: -0.54950815}
-  m_LocalPosition: {x: 111.16, y: 51.92, z: 80.35}
+  m_LocalRotation: {x: 0.0034133948, y: -0.8822769, z: -0.008032629, w: -0.47065005}
+  m_LocalPosition: {x: 116.69, y: 50.72, z: 76.81}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: -0.996, y: -246.67, z: 0.088}
+  m_LocalEulerAnglesHint: {x: -0.996, y: -236.156, z: 0.088}
 --- !u!1001 &518800891
 PrefabInstance:
   m_ObjectHideFlags: 0

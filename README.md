@@ -1,5 +1,8 @@
 # AboutRP
 
+Press play to load asteroid animation.
+Resolution: 1920x1080
+
 #SCREENSHOTS
 
 Trail
